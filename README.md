@@ -53,11 +53,4 @@
   </a>
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="GitHub İstatistikleri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark&hide_border=true&title_color=0077B5" alt="En Çok Kullanılan Diller" />
-</p>
+-
