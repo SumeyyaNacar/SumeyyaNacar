@@ -3,7 +3,7 @@
   <p><b>FULL STACK JAVA DEVELOPER</b></p>
 </div>
 
-
+---
 ### 📌 About Me
 
 <p>
