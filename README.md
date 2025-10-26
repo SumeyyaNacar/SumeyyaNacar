@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
-### 🔗 Connect with Me
+---
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sumeyyanacar" target="_blank">
