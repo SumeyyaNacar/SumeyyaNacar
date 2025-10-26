@@ -4,8 +4,6 @@
 </div>
 
 ---
-### 📌 About Me
-
 <p>
   I'm a <b>Full Stack Java Developer</b> with extensive experience in designing, developing, and deploying <b>scalable web applications</b>. I specialize in <b>Microservices Architecture</b> and <b>CI/CD pipelines</b>.
 </p>
@@ -16,8 +14,6 @@
 - 🚀 **Impact:** Experienced in <b>leading teams</b>, optimizing code (e.g., <b>40% code duplication reduction</b>), and achieving high reliability (e.g., <b>99.9% uptime</b>).
 
 ---
-
-### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
@@ -36,8 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
 </p>
-
----
 
 ### 🔗 Connect with Me
 
