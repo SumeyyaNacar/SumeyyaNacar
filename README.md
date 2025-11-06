@@ -35,7 +35,7 @@
 <div align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/sumeyyanacar" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
-    </a>
+    </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:sumeyyanacar08@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="45" height="45"/>
     </a>
